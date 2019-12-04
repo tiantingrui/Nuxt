@@ -1,0 +1,2 @@
+# Nuxt
+A nuxt project
